@@ -1,6 +1,7 @@
 # Author: Kylie Hoyt
 # Date Created: 06/03/2022
 # How to use this script: This script works in conjunction with 3 .csv files: a varaible database, a test plan, and a sample table. The variable database contains the part numbers of all the equipment to be randomized including the divoted implants, posterior cutting blocks, and the drill through trials. The variable database also contains the workflow options to be randomized and the remaining uses of each of the burs being used. The test plan contains the approximate number of Navio and CORI cases performed by each user and the samples that each user still has to perform. The plan for this test is 4 saw samples, 4 5mm cylindrical bur samples, and 4 5mm bullet bur samples per user. The sample table contains the conditions of each sample including the user information, the randomized variables, and the serial numbers of the CORI equipment being used. These tables are uploaded when the script begins and updated/saved after every confirmed sample and at the end. The real time randomization takes into account the innaccessibility of each divoted implant while it is waiting for divot collection or pull-off testing. This feature can be disabled and a randomization matrix can be generated instead.
+# This code was created for Smith & Nephew to help run a feasibility test called bone-to-implant gap testing. The test administrator should use this code to maintain the sample information and keep track of available equipment. 
 import numpy as np
 from numpy.random import randint
 from numpy import random
