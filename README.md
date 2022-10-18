@@ -7,11 +7,17 @@ I am currently a biomedical engineering master's student graduating from the Uni
 Favorite Examples:
 
 OOP: BTIGapTestAssistant.py or Disease_Propagation_Model
+
 sys/os: ValidationTest.py
+
 DSP: Motor_Imagery_EEG_DSP.m
+
 Single Unit Activity Analysis: Spike_Train_Predictions.py
 
 Python: BTIGapTestAssistant, Spike_Train_Predictions, Effective_Connectivity_Analysis
+
 C++: Disease_Propagation_Model
+
 MATLAB: Motor_Imagery_EEG_DSP
+
 Fortran: Complex_Newtons_Basin
