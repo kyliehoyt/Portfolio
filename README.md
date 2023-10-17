@@ -14,7 +14,7 @@ DSP: Motor_Imagery_EEG_DSP.m
 
 Single Unit Activity Analysis: Spike_Train_Predictions.py
 
-Python: BTIGapTestAssistant, Spike_Train_Predictions, Effective_Connectivity_Analysis
+Python: BTIGapTestAssistant, Spike_Train_Predictions, Effective_Connectivity_Analysis, or my BCI_Motor_Imagery Repo
 
 C++: Disease_Propagation_Model
 
